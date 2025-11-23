@@ -20,8 +20,9 @@ namespace Web.App.Controllers
         [HttpPost("Register")]
         public IActionResult Register( RegisterDto registerDto)
         {
-
+            var ff = _authBll.Login(new LoginDto { Password="",UserName=""});
             var result = _authBll.Register(registerDto);
+            
 
             return Ok(result);
 

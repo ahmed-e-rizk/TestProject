@@ -1,0 +1,17 @@
+D:\projects\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\projects\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\projects\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\projects\Infrastructure\bin\Debug\net8.0\Web.Core.dll
+D:\projects\Infrastructure\bin\Debug\net8.0\Web.DTO.dll
+D:\projects\Infrastructure\bin\Debug\net8.0\Web.Core.pdb
+D:\projects\Infrastructure\bin\Debug\net8.0\Web.DTO.pdb
+D:\projects\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\projects\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\projects\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\projects\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\projects\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\projects\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\projects\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\projects\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\projects\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

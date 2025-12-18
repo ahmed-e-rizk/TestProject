@@ -1,0 +1,11 @@
+D:\projects\Web.Helper\bin\Debug\net8.0\Web.Helper.deps.json
+D:\projects\Web.Helper\bin\Debug\net8.0\Web.Helper.dll
+D:\projects\Web.Helper\bin\Debug\net8.0\Web.Helper.pdb
+D:\projects\Web.Helper\obj\Debug\net8.0\Web.Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Web.Helper\obj\Debug\net8.0\Web.Helper.AssemblyInfoInputs.cache
+D:\projects\Web.Helper\obj\Debug\net8.0\Web.Helper.AssemblyInfo.cs
+D:\projects\Web.Helper\obj\Debug\net8.0\Web.Helper.csproj.CoreCompileInputs.cache
+D:\projects\Web.Helper\obj\Debug\net8.0\Web.Helper.dll
+D:\projects\Web.Helper\obj\Debug\net8.0\refint\Web.Helper.dll
+D:\projects\Web.Helper\obj\Debug\net8.0\Web.Helper.pdb
+D:\projects\Web.Helper\obj\Debug\net8.0\ref\Web.Helper.dll

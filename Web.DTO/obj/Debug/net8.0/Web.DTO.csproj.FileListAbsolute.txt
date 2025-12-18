@@ -1,0 +1,11 @@
+D:\projects\Web.DTO\bin\Debug\net8.0\Web.DTO.deps.json
+D:\projects\Web.DTO\bin\Debug\net8.0\Web.DTO.dll
+D:\projects\Web.DTO\bin\Debug\net8.0\Web.DTO.pdb
+D:\projects\Web.DTO\obj\Debug\net8.0\Web.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Web.DTO\obj\Debug\net8.0\Web.DTO.AssemblyInfoInputs.cache
+D:\projects\Web.DTO\obj\Debug\net8.0\Web.DTO.AssemblyInfo.cs
+D:\projects\Web.DTO\obj\Debug\net8.0\Web.DTO.csproj.CoreCompileInputs.cache
+D:\projects\Web.DTO\obj\Debug\net8.0\Web.DTO.dll
+D:\projects\Web.DTO\obj\Debug\net8.0\refint\Web.DTO.dll
+D:\projects\Web.DTO\obj\Debug\net8.0\Web.DTO.pdb
+D:\projects\Web.DTO\obj\Debug\net8.0\ref\Web.DTO.dll

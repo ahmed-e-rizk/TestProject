@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=System;Integrated Security=True;Connect Timeout=300;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entites -Force

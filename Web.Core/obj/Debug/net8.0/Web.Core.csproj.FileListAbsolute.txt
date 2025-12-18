@@ -1,0 +1,17 @@
+D:\projects\Web.Core\bin\Debug\net8.0\Web.Core.deps.json
+D:\projects\Web.Core\bin\Debug\net8.0\Web.Core.runtimeconfig.json
+D:\projects\Web.Core\bin\Debug\net8.0\Web.Core.dll
+D:\projects\Web.Core\bin\Debug\net8.0\Web.Core.pdb
+D:\projects\Web.Core\obj\Debug\net8.0\Web.Core.csproj.AssemblyReference.cache
+D:\projects\Web.Core\obj\Debug\net8.0\Web.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Web.Core\obj\Debug\net8.0\Web.Core.AssemblyInfoInputs.cache
+D:\projects\Web.Core\obj\Debug\net8.0\Web.Core.AssemblyInfo.cs
+D:\projects\Web.Core\obj\Debug\net8.0\Web.Core.csproj.CoreCompileInputs.cache
+D:\projects\Web.Core\obj\Debug\net8.0\Web.Core.dll
+D:\projects\Web.Core\obj\Debug\net8.0\refint\Web.Core.dll
+D:\projects\Web.Core\obj\Debug\net8.0\Web.Core.pdb
+D:\projects\Web.Core\obj\Debug\net8.0\Web.Core.genruntimeconfig.cache
+D:\projects\Web.Core\obj\Debug\net8.0\ref\Web.Core.dll
+D:\projects\Web.Core\bin\Debug\net8.0\Web.DTO.dll
+D:\projects\Web.Core\bin\Debug\net8.0\Web.DTO.pdb
+D:\projects\Web.Core\obj\Debug\net8.0\Web.Core.csproj.Up2Date
